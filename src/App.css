@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+ 
+ 
+}
+ .divWrapper{
+  border: 2px solid white;
+  margin: 5px auto;
+  border-radius: 5px;
+}
+ img{
+  width: 100%;
+}
+  /* .image_wrapper{
+  width: 250px;
+  height: 250px; 
+}  */
